@@ -12,5 +12,14 @@ page_sections:
   navigation:
   - link: https://twitter.com/___spiral____
     link_text: Twitter
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: <img src="/uploads/2021/07/12/spiral-1.jpg">
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
